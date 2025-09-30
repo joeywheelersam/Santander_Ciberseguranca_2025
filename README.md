@@ -60,8 +60,8 @@
             <tr>
                 <td>01</td>
                 <td>Príncipios da Cibersegurança</td>
-                <td><a href="">Link</a></td>
-                <td align="center">❌</td>
+                <td><a href="./Módulo 2/01. Príncipios da Cibersegurança.md">Link</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>02</td>
