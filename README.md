@@ -38,7 +38,7 @@
             <tr>
                 <td>01</td>
                 <td>Introdução à Cibersegurança com o Santander</td>
-                <td><a href="">Link</a></td>
+                <td><a href="./Módulo 1/01. Introdução à Cibersegurança com o Santander.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
         </tbody>
@@ -141,7 +141,7 @@
             </tr>
             <tr>
                 <td>06</td>
-                <td>Desafios de Projetos: crie um Portfólio vencedor</td>
+                <td>Desafios de Projetos: Crie um Portfólio Vencedor</td>
                 <td><a href="./Módulo 3/06. Desafios de projetos - Crie um portfólio vencedor.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
